@@ -1,0 +1,92 @@
+body
+{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.112rem;
+  font-weight: normal;
+  margin: 50px auto 0 auto;
+}
+
+h2
+{
+  font-size: 2.3rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+a
+{
+  color: #11999E;
+}
+
+.top-container
+{
+  background-color: #C1EFFF;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container
+{
+
+}
+.bottom-container
+{
+
+}
+.top-cloud
+{
+  position: absolute;
+  right: 250px;
+  top:70px;
+  width: 150px;
+  height: 70px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 300px;
+  bottom: 320px;
+  width: 150px;
+  height: 70px;
+}
+.mount
+{
+  width: 1000px;
+  height: 400px;
+}
+.profile-pic
+{
+  width: 200px;
+  height: 200px;
+}
+.development
+{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+
+}
+.football
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
